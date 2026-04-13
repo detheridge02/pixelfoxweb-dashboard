@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand-orange: #FF6B35;
+  --brand-dark: #1A1A2E;
+}
+
+body {
+  background-color: #0f172a;
+  color: #f1f5f9;
+}
