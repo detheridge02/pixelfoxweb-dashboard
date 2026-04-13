@@ -9,6 +9,9 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'PixelFoxWeb Dashboard',
   description: 'Lead generation and CRM dashboard',
+  icons: {
+    icon: '/favicon.svg',
+  },
 }
 
 export default function RootLayout({
